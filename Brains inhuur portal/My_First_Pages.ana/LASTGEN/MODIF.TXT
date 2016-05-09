@@ -1,5 +1,1 @@
-//MO001-002.TXT ANA00001 TO ANA00002
-Aanmelden		NFI		new file
-Aanmelden		FIC-	Registration	Registration file deleted
-Aanmelden	Gebruikersnaam	RRN		
-Aanmelden	Wachtwoord	RRN		
+//MO002-003.TXT ANA00002 TO ANA00003

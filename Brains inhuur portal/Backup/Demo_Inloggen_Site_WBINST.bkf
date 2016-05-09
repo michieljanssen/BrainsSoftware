@@ -3,7 +3,7 @@
 	<CInstallWBData id="id0">
 		<m_nVersionFormat>4</m_nVersionFormat>
 		<m_nModeleInstallation>2</m_nModeleInstallation>
-		<m_nSupportInstallation>1</m_nSupportInstallation>
+		<m_nSupportInstallation>3</m_nSupportInstallation>
 		<m_tabServeur SOAP_ENC:arrayType="m_tabServeur[1]">
 			<item href="#id1"/>
 		</m_tabServeur>
@@ -1492,8 +1492,8 @@
 			<item href="#id1315"/>
 		</m_tabFicDistant>
 		<m_bIgnoreErreurHTTPS>0</m_bIgnoreErreurHTTPS>
-		<m_nTimeoutNoRqAWP>0</m_nTimeoutNoRqAWP>
-		<m_nTimeoutNoRqWebService>0</m_nTimeoutNoRqWebService>
+		<m_nTimeoutNoRqAWP>600</m_nTimeoutNoRqAWP>
+		<m_nTimeoutNoRqWebService>600</m_nTimeoutNoRqWebService>
 		<m_bIgnoreErreurFTPS>0</m_bIgnoreErreurFTPS>
 		<m_tabLangue SOAP_ENC:arrayType="m_tabLangue[0]">
 		</m_tabLangue>
@@ -1920,7 +1920,7 @@
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\NL\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\NL\_sitemap.xml</m_sCheminDistantComplet>
 		<m_nTaille>111</m_nTaille>
-		<m_dhDateHeureModif>2016-04-25T15:26:26</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-04-25T15:33:14</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id11">
@@ -5099,7 +5099,7 @@
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\UK\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\UK\_sitemap.xml</m_sCheminDistantComplet>
 		<m_nTaille>111</m_nTaille>
-		<m_dhDateHeureModif>2016-04-25T15:26:26</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-04-25T15:33:14</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id300">
@@ -5110,7 +5110,7 @@
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\_sitemap.xml</m_sCheminDistantComplet>
 		<m_nTaille>305</m_nTaille>
-		<m_dhDateHeureModif>2016-04-25T15:26:26</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-04-25T15:33:14</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id301">
@@ -5154,7 +5154,7 @@
 		<m_sCheminDistant>&lt;site&gt;\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\Demo_Inloggen.wdl</m_sCheminDistantComplet>
 		<m_nTaille>40843</m_nTaille>
-		<m_dhDateHeureModif>2016-04-25T15:26:26</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-04-25T15:33:14</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id305">
@@ -5323,7 +5323,7 @@
 	</CParamLangue>
 	<CParamLangue id="id321">
 		<m_nLangue>5</m_nLangue>
-		<m_bUtilise>1</m_bUtilise>
+		<m_bUtilise>0</m_bUtilise>
 		<m_sLibLangue>Français</m_sLibLangue>
 		<m_sLicence></m_sLicence>
 		<m_sLisezMoi></m_sLisezMoi>
@@ -6167,1867 +6167,1867 @@
 		<m_nTimeoutTache>0</m_nTimeoutTache>
 	</CServeurInst>
 	<CFichierInstDistant id="id383">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id384">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id385">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id386">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id387">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id388">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id389">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id390">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id391">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id392">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id393">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id394">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id395">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id396">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id397">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id398">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id399">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id400">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id401">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id402">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id403">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id404">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id405">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id406">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id407">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id408">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id409">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id410">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id411">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id412">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id413">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id414">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id415">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id416">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id417">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id418">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id419">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id420">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id421">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id422">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id423">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id424">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id425">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id426">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id427">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id428">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id429">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id430">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id431">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id432">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id433">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id434">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id435">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id436">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id437">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id438">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id439">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id440">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id441">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id442">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id443">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id444">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id445">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id446">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id447">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id448">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id449">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id450">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id451">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id452">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id453">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id454">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id455">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id456">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id457">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id458">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id459">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id460">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id461">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id462">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id463">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id464">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id465">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id466">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id467">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id468">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id469">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id470">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id471">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id472">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id473">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id474">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id475">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id476">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id477">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id478">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id479">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id480">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id481">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id482">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id483">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id484">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id485">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id486">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id487">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id488">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id489">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id490">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id491">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id492">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id493">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id494">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id495">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id496">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id497">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id498">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id499">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id500">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id501">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id502">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id503">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id504">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id505">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id506">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id507">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id508">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id509">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id510">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id511">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id512">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id513">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id514">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id515">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id516">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id517">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id518">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id519">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id520">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id521">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id522">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id523">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id524">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id525">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id526">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id527">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id528">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id529">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id530">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id531">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id532">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id533">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id534">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id535">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id536">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id537">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id538">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id539">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id540">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id541">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id542">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id543">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id544">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id545">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id546">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id547">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id548">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id549">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id550">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id551">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id552">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id553">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id554">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id555">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id556">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id557">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id558">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id559">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id560">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id561">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id562">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id563">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id564">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id565">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id566">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id567">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id568">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id569">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id570">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id571">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id572">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id573">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id574">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id575">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id576">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id577">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id578">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id579">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id580">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id581">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id582">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id583">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id584">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id585">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id586">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id587">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id588">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id589">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id590">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id591">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id592">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id593">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id594">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id595">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id596">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id597">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id598">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id599">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id600">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id601">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id602">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id603">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id604">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id605">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id606">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id607">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id608">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id609">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id610">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id611">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id612">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id613">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id614">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.141</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id615">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id616">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id617">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id618">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id619">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id620">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id621">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id622">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id623">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id624">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id625">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id626">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id627">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id628">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id629">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id630">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id631">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id632">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id633">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id634">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id635">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id636">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id637">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id638">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id639">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id640">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id641">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id642">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id643">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id644">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id645">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id646">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id647">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id648">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id649">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id650">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id651">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id652">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id653">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id654">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id655">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id656">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id657">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id658">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id659">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id660">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id661">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id662">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id663">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id664">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id665">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id666">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id667">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id668">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id669">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id670">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id671">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id672">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id673">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id674">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id675">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id676">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id677">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id678">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id679">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id680">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id681">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id682">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id683">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id684">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id685">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id686">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id687">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id688">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id689">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id690">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id691">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id692">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id693">
-		<m_nOperation>0</m_nOperation>
+		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>0</m_bExisteDistant>
 		<m_nTailleDistant>0</m_nTailleDistant>
 		<m_dhDateHeureModifDistant>2016-04-25T15:26:46.142</m_dhDateHeureModifDistant>
