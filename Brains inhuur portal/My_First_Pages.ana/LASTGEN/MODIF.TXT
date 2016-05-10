@@ -1,2 +1,23 @@
-//MO004-005.TXT ANA00004 TO ANA00005
-Plangregels		NFI		new file
+//MO005-006.TXT ANA00005 TO ANA00006
+Plangregels		TAR	684	new record size: 684
+Plangregels	Plannummer	NNR	PlangregelsID	CAUTION: key PlangregelsID renamed Plannummer
+Plangregels	MedewerkerNr	RUB+		MedewerkerNr is a new item
+Plangregels	Uurtarief	RUB+		Uurtarief is a new item
+Plangregels	ProjectNr	RUB+		ProjectNr is a new item
+Plangregels	Projectnaam	RUB+		Projectnaam is a new item
+Plangregels	Werklocatie	RUB+		Werklocatie is a new item
+Plangregels	Adres	RUB+		Adres is a new item
+Plangregels	Postcode	RUB+		Postcode is a new item
+Plangregels	Plaats	RUB+		Plaats is a new item
+Plangregels	Startdatum	RUB+		Startdatum is a new item
+Plangregels	Einddatum	RUB+		Einddatum is a new item
+Plangregels	Starttijd	RUB+		Starttijd is a new item
+Plangregels	Eindtijd	RUB+		Eindtijd is a new item
+Plangregels	Uren	RUB+		Uren is a new item
+Plangregels	Contactpersoon	RUB+		Contactpersoon is a new item
+Plangregels	ContactpersoonTel	RUB+		ContactpersoonTel is a new item
+Plangregels	ContactpersoonEmail	RUB+		ContactpersoonEmail is a new item
+Plangregels	UitvoerderTSN	RUB+		UitvoerderTSN is a new item
+Plangregels	UitvoerderTSNedTel	RUB+		UitvoerderTSNedTel is a new item
+Plangregels	Vereist	RUB+		Vereist is a new item
+Plangregels	Instructie	RUB+		Instructie is a new item

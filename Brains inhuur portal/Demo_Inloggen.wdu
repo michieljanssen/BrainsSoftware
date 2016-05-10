@@ -7,10 +7,8 @@ PAGE_Form.wwh
 190 Evolution\Btn_02.svg
 190 Evolution\Calendar.svg
 GrayVolution.wpc
-UK\PAGE_Form.htm
 NL\PAGE_Form.htm
 PAGE_Registraties.wwh
-UK\PAGE_Registraties.htm
 NL\PAGE_Registraties.htm
 PAGE_WeekOverzicht.wwh
 190 Evolution\BTN_Simple_Left.svg
@@ -20,8 +18,14 @@ PAGE_WeekOverzicht.wwh
 190 Evolution\Table_ColTitle.svg
 190 Evolution\Timer.gif
 DEMO_INLOGGEN_WEB\TSNed.jpg
-UK\PAGE_WeekOverzicht.htm
 NL\PAGE_WeekOverzicht.htm
 PAGE_Aanmelden.wwh
-UK\PAGE_Aanmelden.htm
 NL\PAGE_Aanmelden.htm
+PAGE_DagOverZicht.wwh
+NL\PAGE_DagOverZicht.htm
+QRY_Werkbon.WDR
+PAGE_DagOverzichtTest.wwh
+PAGE_DagOverZicht2.wwh
+NL\PAGE_DagOverZicht2.htm
+RPT_Werkbon.wde
+LOGO-TRAFFIC-SERVICE-NEDERLAND.JPG
