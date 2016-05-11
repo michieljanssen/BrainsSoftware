@@ -1,0 +1,4 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Plangregels		TAR	1584	new record size: 1584
+Plangregels	Vereist	TAI+	450	Vereist item has been resized: 501 (instead of 51)
+Plangregels	Instructie	TAI+	450	Instructie item has been resized: 501 (instead of 51)

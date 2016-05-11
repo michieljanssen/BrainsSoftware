@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Plangregels		TAR	1284	new record size: 1284
+Plangregels	Vereist	TAI-	200	Vereist item has been resized: 301 (instead of 501)
+Plangregels	Instructie	TAI-	400	Instructie item has been resized: 401 (instead of 801)
