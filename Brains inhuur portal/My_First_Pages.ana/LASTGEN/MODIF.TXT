@@ -1,3 +1,4 @@
-//MO010-011.TXT ANA00010 TO ANA00011
-Plangregels		TAR	1285	new record size: 1285
-Plangregels	Instructie	TAI+	1	Instructie item has been resized: 402 (instead of 401)
+//MO012-013.TXT ANA00012 TO ANA00013
+Persoon		NFI		new file
+Prjplan		NFI		new file
+Connection to 'BRAINSKANTOOR\SQLEXPRESS'		CNX+		
