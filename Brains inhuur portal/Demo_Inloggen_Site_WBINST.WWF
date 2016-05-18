@@ -878,7 +878,7 @@
 		<m_bTeste>1</m_bTeste>
 		<m_bRecup>1</m_bRecup>
 		<m_nEtatDistant>0</m_nEtatDistant>
-		<m_nVersionDistante>13</m_nVersionDistante>
+		<m_nVersionDistante>15</m_nVersionDistante>
 		<m_sNomSite>Demo_Inloggen</m_sNomSite>
 		<m_sRepFicGPU></m_sRepFicGPU>
 		<m_sRepFicDroitGPU></m_sRepFicDroitGPU>
@@ -2421,7 +2421,7 @@
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\Demo_Inloggen190EvolutionGrayVolution.css</m_sCheminDistantComplet>
 		<m_nTaille>7185</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T15:00:43</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-05-18T10:39:16</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id7">
@@ -2443,7 +2443,7 @@
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\Evolution190EvolutionGrayVolution.css</m_sCheminDistantComplet>
 		<m_nTaille>133306</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T15:00:43</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-05-18T10:39:16</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id9">
@@ -2498,7 +2498,7 @@
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\NL\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\NL\_sitemap.xml</m_sCheminDistantComplet>
 		<m_nTaille>111</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T16:24:33</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-05-18T12:28:12</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id14">
@@ -2508,8 +2508,8 @@
 		<m_sCheminSourceComplet>&lt;RepPrj&gt;demo_inloggen_web\page_aanmelden_style.css</m_sCheminSourceComplet>
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\PAGE_Aanmelden_style.css</m_sCheminDistantComplet>
-		<m_nTaille>2010</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T16:06:50</m_dhDateHeureModif>
+		<m_nTaille>1992</m_nTaille>
+		<m_dhDateHeureModif>2016-05-18T12:23:19</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id15">
@@ -2519,8 +2519,8 @@
 		<m_sCheminSourceComplet>&lt;RepPrj&gt;demo_inloggen_web\page_dagoverzicht2_style.css</m_sCheminSourceComplet>
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\PAGE_DagOverZicht2_style.css</m_sCheminDistantComplet>
-		<m_nTaille>2202</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T10:14:59</m_dhDateHeureModif>
+		<m_nTaille>2475</m_nTaille>
+		<m_dhDateHeureModif>2016-05-13T13:21:08</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id16">
@@ -2542,7 +2542,7 @@
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\PAGE_DagOverZicht_style.css</m_sCheminDistantComplet>
 		<m_nTaille>4935</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T16:22:45</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-05-18T10:39:16</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id18">
@@ -2553,7 +2553,7 @@
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\PAGE_DbTest_style.css</m_sCheminDistantComplet>
 		<m_nTaille>544</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T15:00:43</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-05-18T12:21:26</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id19">
@@ -2619,7 +2619,7 @@
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\palette-GrayVolution.css</m_sCheminDistantComplet>
 		<m_nTaille>3692</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T15:00:43</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-05-18T10:39:16</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id25">
@@ -5776,7 +5776,7 @@
 		<m_sCheminDistant>&lt;site&gt;\DEMO_INLOGGEN_WEB\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\DEMO_INLOGGEN_WEB\_sitemap.xml</m_sCheminDistantComplet>
 		<m_nTaille>213</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T16:24:33</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-05-18T12:28:12</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id312">
@@ -5786,8 +5786,8 @@
 		<m_sCheminSourceComplet>&lt;RepPrj&gt;exe\demo_inloggen.wdl</m_sCheminSourceComplet>
 		<m_sCheminDistant>&lt;site&gt;\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\Demo_Inloggen.wdl</m_sCheminDistantComplet>
-		<m_nTaille>83211</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T16:24:33</m_dhDateHeureModif>
+		<m_nTaille>84535</m_nTaille>
+		<m_dhDateHeureModif>2016-05-18T12:28:12</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id313">
@@ -5797,8 +5797,8 @@
 		<m_sCheminSourceComplet>&lt;RepPrj&gt;exe\demo_inloggen.wpf</m_sCheminSourceComplet>
 		<m_sCheminDistant>&lt;site&gt;\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\Demo_Inloggen.WPF</m_sCheminDistantComplet>
-		<m_nTaille>3218</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T16:24:28</m_dhDateHeureModif>
+		<m_nTaille>6055</m_nTaille>
+		<m_dhDateHeureModif>2016-05-18T12:28:04</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id314">
@@ -5874,8 +5874,8 @@
 		<m_sCheminSourceComplet>&lt;RepPrj&gt;exe\page_aanmelden.awl</m_sCheminSourceComplet>
 		<m_sCheminDistant>&lt;site&gt;\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\PAGE_Aanmelden.awl</m_sCheminDistantComplet>
-		<m_nTaille>73769</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T16:06:50</m_dhDateHeureModif>
+		<m_nTaille>73786</m_nTaille>
+		<m_dhDateHeureModif>2016-05-18T12:23:19</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id321">
@@ -5885,8 +5885,8 @@
 		<m_sCheminSourceComplet>&lt;RepPrj&gt;exe\page_dagoverzicht.awl</m_sCheminSourceComplet>
 		<m_sCheminDistant>&lt;site&gt;\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\PAGE_DagOverZicht.awl</m_sCheminDistantComplet>
-		<m_nTaille>89469</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T16:22:46</m_dhDateHeureModif>
+		<m_nTaille>89674</m_nTaille>
+		<m_dhDateHeureModif>2016-05-18T10:39:16</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id322">
@@ -5896,8 +5896,8 @@
 		<m_sCheminSourceComplet>&lt;RepPrj&gt;exe\page_dagoverzicht2.awl</m_sCheminSourceComplet>
 		<m_sCheminDistant>&lt;site&gt;\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\PAGE_DagOverZicht2.awl</m_sCheminDistantComplet>
-		<m_nTaille>77627</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T10:15:01</m_dhDateHeureModif>
+		<m_nTaille>81837</m_nTaille>
+		<m_dhDateHeureModif>2016-05-13T13:21:09</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id323">
@@ -5918,8 +5918,8 @@
 		<m_sCheminSourceComplet>&lt;RepPrj&gt;exe\page_dbtest.awl</m_sCheminSourceComplet>
 		<m_sCheminDistant>&lt;site&gt;\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\PAGE_DbTest.awl</m_sCheminDistantComplet>
-		<m_nTaille>130481</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T15:00:43</m_dhDateHeureModif>
+		<m_nTaille>86398</m_nTaille>
+		<m_dhDateHeureModif>2016-05-18T12:21:26</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id325">
@@ -6029,7 +6029,7 @@
 		<m_sCheminDistant>&lt;site&gt;\</m_sCheminDistant>
 		<m_sCheminDistantComplet>&lt;site&gt;\RPT_Werkbon.pdf</m_sCheminDistantComplet>
 		<m_nTaille>55981</m_nTaille>
-		<m_dhDateHeureModif>2016-05-12T16:23:45</m_dhDateHeureModif>
+		<m_dhDateHeureModif>2016-05-18T12:24:34</m_dhDateHeureModif>
 		<m_nGroupe>0</m_nGroupe>
 	</CFichierInst>
 	<CFichierInst id="id335">
@@ -9188,10 +9188,10 @@
 		<m_dhDateHeureModifDistant>2016-05-12T13:33:05.01</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id761">
-		<m_nOperation>2</m_nOperation>
+		<m_nOperation>1</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
 		<m_nTailleDistant>7185</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T13:29:28</m_dhDateHeureModifDistant>
+		<m_dhDateHeureModifDistant>2016-05-18T10:39:16</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id762">
 		<m_nOperation>1</m_nOperation>
@@ -9200,10 +9200,10 @@
 		<m_dhDateHeureModifDistant>2016-05-12T10:14:58</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id763">
-		<m_nOperation>2</m_nOperation>
+		<m_nOperation>1</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
 		<m_nTailleDistant>133306</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T13:29:28</m_dhDateHeureModifDistant>
+		<m_dhDateHeureModifDistant>2016-05-18T10:39:16</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id764">
 		<m_nOperation>1</m_nOperation>
@@ -9233,19 +9233,19 @@
 		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
 		<m_nTailleDistant>111</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T14:34:52</m_dhDateHeureModifDistant>
+		<m_dhDateHeureModifDistant>2016-05-18T10:44:52</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id769">
 		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
-		<m_nTailleDistant>1835</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T10:14:58</m_dhDateHeureModifDistant>
+		<m_nTailleDistant>2010</m_nTailleDistant>
+		<m_dhDateHeureModifDistant>2016-05-12T16:06:50</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id770">
 		<m_nOperation>1</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
-		<m_nTailleDistant>2202</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T10:14:58</m_dhDateHeureModifDistant>
+		<m_nTailleDistant>2475</m_nTailleDistant>
+		<m_dhDateHeureModifDistant>2016-05-13T13:21:08</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id771">
 		<m_nOperation>1</m_nOperation>
@@ -9254,16 +9254,16 @@
 		<m_dhDateHeureModifDistant>2016-05-12T10:14:58</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id772">
-		<m_nOperation>2</m_nOperation>
+		<m_nOperation>1</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
 		<m_nTailleDistant>4935</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T13:59:24</m_dhDateHeureModifDistant>
+		<m_dhDateHeureModifDistant>2016-05-18T10:39:16</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id773">
 		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
-		<m_nTailleDistant>563</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T14:34:50</m_dhDateHeureModifDistant>
+		<m_nTailleDistant>401</m_nTailleDistant>
+		<m_dhDateHeureModifDistant>2016-05-17T17:02:42</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id774">
 		<m_nOperation>1</m_nOperation>
@@ -9296,10 +9296,10 @@
 		<m_dhDateHeureModifDistant>2016-05-12T10:14:58</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id779">
-		<m_nOperation>2</m_nOperation>
+		<m_nOperation>1</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
 		<m_nTailleDistant>3692</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T13:29:28</m_dhDateHeureModifDistant>
+		<m_dhDateHeureModifDistant>2016-05-18T10:39:16</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id780">
 		<m_nOperation>1</m_nOperation>
@@ -11021,19 +11021,19 @@
 		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
 		<m_nTailleDistant>213</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T14:34:52</m_dhDateHeureModifDistant>
+		<m_dhDateHeureModifDistant>2016-05-18T10:44:52</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id1067">
 		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
-		<m_nTailleDistant>77723</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T14:34:52</m_dhDateHeureModifDistant>
+		<m_nTailleDistant>84538</m_nTailleDistant>
+		<m_dhDateHeureModifDistant>2016-05-18T10:44:52</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id1068">
 		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
-		<m_nTailleDistant>960</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T13:32:34</m_dhDateHeureModifDistant>
+		<m_nTailleDistant>2600</m_nTailleDistant>
+		<m_dhDateHeureModifDistant>2016-05-18T10:39:26</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id1069">
 		<m_nOperation>1</m_nOperation>
@@ -11074,20 +11074,20 @@
 	<CFichierInstDistant id="id1075">
 		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
-		<m_nTailleDistant>73077</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T10:15:00</m_dhDateHeureModifDistant>
+		<m_nTailleDistant>73769</m_nTailleDistant>
+		<m_dhDateHeureModifDistant>2016-05-12T16:06:50</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id1076">
-		<m_nOperation>2</m_nOperation>
+		<m_nOperation>1</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
-		<m_nTailleDistant>89527</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T13:59:24</m_dhDateHeureModifDistant>
+		<m_nTailleDistant>89674</m_nTailleDistant>
+		<m_dhDateHeureModifDistant>2016-05-18T10:39:16</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id1077">
 		<m_nOperation>1</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
-		<m_nTailleDistant>77627</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T10:15:00</m_dhDateHeureModifDistant>
+		<m_nTailleDistant>81837</m_nTailleDistant>
+		<m_dhDateHeureModifDistant>2016-05-13T13:21:08</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id1078">
 		<m_nOperation>1</m_nOperation>
@@ -11098,8 +11098,8 @@
 	<CFichierInstDistant id="id1079">
 		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
-		<m_nTailleDistant>130763</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T14:34:50</m_dhDateHeureModifDistant>
+		<m_nTailleDistant>53956</m_nTailleDistant>
+		<m_dhDateHeureModifDistant>2016-05-17T17:02:42</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id1080">
 		<m_nOperation>1</m_nOperation>
@@ -11159,7 +11159,7 @@
 		<m_nOperation>2</m_nOperation>
 		<m_bExisteDistant>1</m_bExisteDistant>
 		<m_nTailleDistant>55981</m_nTailleDistant>
-		<m_dhDateHeureModifDistant>2016-05-12T10:15:00</m_dhDateHeureModifDistant>
+		<m_dhDateHeureModifDistant>2016-05-18T10:38:38</m_dhDateHeureModifDistant>
 	</CFichierInstDistant>
 	<CFichierInstDistant id="id1090">
 		<m_nOperation>1</m_nOperation>
