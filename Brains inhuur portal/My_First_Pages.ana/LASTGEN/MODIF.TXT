@@ -1,2 +1,5 @@
-//MO013-014.TXT ANA00013 TO ANA00014
-Prjecten		NFI		new file
+//MO014-015.TXT ANA00014 TO ANA00015
+Gebruikers		TAR	337	new record size: 337
+Gebruikers	Hash	RUB+		Hash is a new item
+Gebruikers	Salt	RUB+		Salt is a new item
+Gebruikers	Gebruikersnaam	RRM		
