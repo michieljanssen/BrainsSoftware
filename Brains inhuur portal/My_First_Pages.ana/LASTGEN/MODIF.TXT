@@ -1,4 +1,2 @@
-//MO012-013.TXT ANA00012 TO ANA00013
-Persoon		NFI		new file
-Prjplan		NFI		new file
-Connection to 'BRAINSKANTOOR\SQLEXPRESS'		CNX+		
+//MO013-014.TXT ANA00013 TO ANA00014
+Prjecten		NFI		new file
