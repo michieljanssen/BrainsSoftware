@@ -1,4 +1,2 @@
-//MO016-017.TXT ANA00016 TO ANA00017
-Gebruikers		TAR	593	new record size: 593
-Gebruikers	Hash	RUB+		Hash is a new item
-Gebruikers	Salt	RUB+		Salt is a new item
+//MO017-018.TXT ANA00017 TO ANA00018
+prjamemo		NFI		new file
