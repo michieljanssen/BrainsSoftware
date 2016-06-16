@@ -1,3 +1,3 @@
-//MO018-019.TXT ANA00018 TO ANA00019
-		FIC-	Plangregels	Plangregels file deleted
-		FIC-	Medewerker	Medewerker file deleted
+//MO019-020.TXT ANA00019 TO ANA00020
+Gebruikers_Oud		NNF*	Gebruikers	new name Gebruikers_Oud
+Gebruikers		NFI		new file
