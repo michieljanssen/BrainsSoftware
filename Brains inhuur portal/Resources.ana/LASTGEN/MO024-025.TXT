@@ -1,0 +1,5 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Gebruikers		TAR	135	new record size: 135
+Gebruikers		TYPE		File type changed from Native access/Other OLE DB access to HFSQL
+Gebruikers		FCNX-	Connection to 'TSNED-SQL01\BRAINS'	
+Gebruikers		FRN		

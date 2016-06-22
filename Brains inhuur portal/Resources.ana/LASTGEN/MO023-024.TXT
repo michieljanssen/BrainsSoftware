@@ -1,0 +1,9 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Persoon		FCNX+	Connection to 'TSNED-SQL01\BRAINS'	
+Prjplan		FCNX+	Connection to 'TSNED-SQL01\BRAINS'	
+Prjecten		FCNX+	Connection to 'TSNED-SQL01\BRAINS'	
+prjamemo		FCNX+	Connection to 'TSNED-SQL01\BRAINS'	
+Gebruikers		TAR	126	new record size: 126
+Gebruikers		TYPE		File type changed from HFSQL to Native access/Other OLE DB access
+Gebruikers		FCNX+	Connection to 'TSNED-SQL01\BRAINS'	
+Connection to 'TSNED-SQL01\BRAINS'		CNX+		

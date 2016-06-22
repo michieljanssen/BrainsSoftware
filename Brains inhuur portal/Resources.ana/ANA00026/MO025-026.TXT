@@ -1,0 +1,9 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Persoon		FCNX+	Connection to 'BRAINSKANTOOR\SQLEXPRESS'	
+Prjplan		FCNX+	Connection to 'BRAINSKANTOOR\SQLEXPRESS'	
+Prjecten		FCNX+	Connection to 'BRAINSKANTOOR\SQLEXPRESS'	
+prjamemo		FCNX+	Connection to 'BRAINSKANTOOR\SQLEXPRESS'	
+Persoon		FRN		
+Prjplan		FRN		
+Prjecten		FRN		
+prjamemo		FRN		
